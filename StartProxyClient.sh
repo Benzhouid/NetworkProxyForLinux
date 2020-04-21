@@ -2,8 +2,8 @@
 SVR_HOST=59.111.176.145
 SVR_PORT=5438
 KEY=YourKey
-LOG_PATH=/root/NetworkProxy
-JAR_PATH=/root/NetworkProxy
+LOG_PATH=/root/NetworkProxyForLinux
+JAR_PATH=/root/NetworkProxyForLinux
 PRO_NAME=com.netease.mail.qiye.StartProxyApplication
 
 for jar in ${JAR_PATH}/*.jar
